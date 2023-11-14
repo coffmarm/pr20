@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733192366918",
+    "project_id": "pr20-efimenko",
+    "storage_bucket": "pr20-efimenko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733192366918:android:866858261ecb945d211347",
+        "android_client_info": {
+          "package_name": "com.example.pr20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIHvvO79FgqjelBiE_6lxp6_r2prpP738"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
